@@ -57,8 +57,3 @@ python main.py
 
 バグ報告、機能リクエスト、プルリクエストを歓迎します。大きな変更を加える前に、まずissueを開いて議論することをお勧めします。
 
-## 作者
-
-[Your Name] - [Your Email]
-
-プロジェクトリンク: https://github.com/yourusername/ai-assisted-prompt-improver
